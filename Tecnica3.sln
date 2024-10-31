@@ -7,15 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-Cuadrantes", "Tecnica3\1-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-adrantesV2", "CuadrantesV2\2-adrantesV2.csproj", "{EFB646DA-7A6F-4E10-B38F-D3817FC54AA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-TablaMultiplicar", "TablaMultiplicar\3-TablaMultiplicar.csproj", "{BA41F432-E4FC-46C3-B5DC-FEC09F3EB1A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-TablaMultiplicar", "TablaMultiplicar\3-TablaMultiplicar.csproj", "{BA41F432-E4FC-46C3-B5DC-FEC09F3EB1A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-TablaMultiplicar2", "TablaMultiplicarI2\4-TablaMultiplicar2.csproj", "{6E082609-CF0B-41A0-AC44-671DDD900A6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-TablaMultiplicar2", "TablaMultiplicarI2\4-TablaMultiplicar2.csproj", "{6E082609-CF0B-41A0-AC44-671DDD900A6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-LeerArchivoTexto", "LeerArchivoTexto\5-LeerArchivoTexto.csproj", "{F4AF1FC8-197C-4D0A-BE5C-ECC980BA8C42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-LeerArchivoTexto", "LeerArchivoTexto\5-LeerArchivoTexto.csproj", "{F4AF1FC8-197C-4D0A-BE5C-ECC980BA8C42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-LeerArchivoTexto", "6-LeerArchivoTexto\6-LeerArchivoTexto.csproj", "{6729E3D6-B5A9-4CBA-9EC6-6B889C48894E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-LeerArchivoTexto", "6-LeerArchivoTexto\6-LeerArchivoTexto.csproj", "{6729E3D6-B5A9-4CBA-9EC6-6B889C48894E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-LeerArchivoTexto", "7-LeerArchivoTexto\7-LeerArchivoTexto.csproj", "{5B96F3CE-E85A-4F2B-BEA8-DB3E46F6439E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-LeerArchivoTexto", "7-LeerArchivoTexto\7-LeerArchivoTexto.csproj", "{5B96F3CE-E85A-4F2B-BEA8-DB3E46F6439E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-EscribirArchivoTexto", "8-EscribirArchivoTexto\8-EscribirArchivoTexto.csproj", "{F0160806-3A34-4603-B974-830F0151F950}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{5B96F3CE-E85A-4F2B-BEA8-DB3E46F6439E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B96F3CE-E85A-4F2B-BEA8-DB3E46F6439E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B96F3CE-E85A-4F2B-BEA8-DB3E46F6439E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0160806-3A34-4603-B974-830F0151F950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0160806-3A34-4603-B974-830F0151F950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0160806-3A34-4603-B974-830F0151F950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0160806-3A34-4603-B974-830F0151F950}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
