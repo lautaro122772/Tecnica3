@@ -36,6 +36,7 @@ public class CrearBaseDatosSQLite
             using (SQLiteCommand cmd = new SQLiteCommand(sqlTablaProfesor, cnx))
             {
                 cmd.ExecuteNonQuery();
+
             }
         }
     }
