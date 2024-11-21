@@ -40,6 +40,9 @@ class Program
         {
             Console.WriteLine("La coordenada ({0}, {1}) está en el origen.", x, y);
         }
+        //pausar antes de cerrar 
+        Console.WriteLine("Preciona cualquier tecla para salir...");
+        Console.Readkey();
     }
 }
 
